@@ -11,3 +11,5 @@ Common-source amplifier (second stage): Boosts the voltage gain and provides the
 To ensure stability, a frequency compensation capacitor (Miller capacitor) is connected between the output of the second stage and the input of the second stage (or first-stage output node). This creates a dominant pole and increases the phase margin, thereby preventing oscillations and ensuring a smooth transient response.
 # Schematic Circuit
 <img width="1920" height="1080" alt="Screenshot from 2025-10-28 13-27-15" src="https://github.com/user-attachments/assets/77368987-c00e-498f-a19b-02a2a80baa73" />
+# Symbol
+<img width="1920" height="1080" alt="Screenshot from 2025-10-28 13-27-15" src="https://github.com/user-attachments/assets/38ecbf16-937a-4a63-a9d4-b79984549c9a" />

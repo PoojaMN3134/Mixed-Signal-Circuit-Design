@@ -12,7 +12,37 @@ To ensure stability, a frequency compensation capacitor (Miller capacitor) is co
 
 # Circuit
 <img width="376" height="134" alt="image" src="https://github.com/user-attachments/assets/2acc0e10-9e68-40a5-bac8-c06e6ac9c9ba" />
+The two-stage operational amplifier consists of:
 
+Differential Input Stage (M1–M4, M5)
+
+Transistors M1 and M2 form an NMOS differential pair that receives the input signals.
+
+M3 and M4 act as a current-mirror load, converting the differential signal to a single-ended output.
+
+M5 provides a constant tail current, ensuring proper biasing and defining the input common-mode range (ICMR).
+
+Function: Converts differential input voltage into an amplified current.
+
+Gain Stage (M6)
+
+The output of the first stage drives transistor M6, configured as a common-source amplifier.
+
+This stage provides most of the voltage gain of the op-amp.
+
+Function: Further amplifies the signal to achieve high gain.
+
+Output Stage / Load Drive (M7)
+
+Transistor M7 drives the load capacitance (C<sub>L</sub>) and delivers output current.
+
+Function: Drives external load with low output impedance.
+
+Frequency Compensation (C<sub>C</sub>)
+
+A compensation capacitor (C<sub>C>) is connected between the first-stage output and second-stage input.
+
+It introduces a dominant pole and improves phase margin and stability.
 
 <img width="675" height="462" alt="Screenshot 2025-11-05 131848" src="https://github.com/user-attachments/assets/e885b1e9-4701-46a5-b169-172c4dc20dec" />
 

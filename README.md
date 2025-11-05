@@ -31,7 +31,7 @@ Transistor M7 drives the load capacitance (C<sub>L</sub>) and delivers output cu
 Function: Drives external load with low output impedance.
 
 4. Frequency Compensation (C<sub>C</sub>)
-A compensation capacitor (C<sub>C>/sub) is connected between the first-stage output and second-stage input.
+A compensation capacitor is connected between the first-stage output and second-stage input.
 It introduces a dominant pole and improves phase margin and stability.
 
 <img width="675" height="462" alt="Screenshot 2025-11-05 131848" src="https://github.com/user-attachments/assets/e885b1e9-4701-46a5-b169-172c4dc20dec" />

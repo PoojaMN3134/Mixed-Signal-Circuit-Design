@@ -40,13 +40,14 @@ It introduces a dominant pole and improves phase margin and stability.
 ![WhatsApp Image 2025-11-05 at 13 40 13_5f62f2f5](https://github.com/user-attachments/assets/030478a9-b923-4fc6-b9ce-a10555852cca)
 
 # Schematic Circuit
-<img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-35 1" src="https://github.com/user-attachments/assets/b1f04710-1ff4-474f-9cfd-960421e1996a" />
+<img width="1292" height="839" alt="Screenshot from 2025-11-05 12-49-35 1" src="https://github.com/user-attachments/assets/07de5d40-bbe1-496a-8c2c-2d41b9b26a0d" />
 
 # Symbol
-<img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-56 1" src="https://github.com/user-attachments/assets/54eacc8c-63b3-485c-8bc7-64dc51047282" />
+<img width="1351" height="824" alt="Screenshot from 2025-11-05 12-49-56 1" src="https://github.com/user-attachments/assets/98d7a103-19eb-4282-a4a6-947f41df3fcc" />
+
 
 # Test Circuit
-<img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-26 1" src="https://github.com/user-attachments/assets/ada899c0-6b72-45ff-838a-53d27b00a13e" />
+<img width="1002" height="799" alt="Screenshot from 2025-11-05 12-49-26 1" src="https://github.com/user-attachments/assets/9e6e2162-da58-42c6-b420-f261e3505d77" />
 
 
 

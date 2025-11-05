@@ -22,6 +22,11 @@ To ensure stability, a frequency compensation capacitor (Miller capacitor) is co
 <img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-35 1" src="https://github.com/user-attachments/assets/b1f04710-1ff4-474f-9cfd-960421e1996a" />
 
 # Symbol
-<img width="1920" height="1080" alt="Screenshot from 2025-10-28 13-27-24" src="https://github.com/user-attachments/assets/46926354-bd18-4824-a8d0-72b217720902" />
+<img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-56 1" src="https://github.com/user-attachments/assets/54eacc8c-63b3-485c-8bc7-64dc51047282" />
+
+# Test Circuit
+<img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-26 1" src="https://github.com/user-attachments/assets/ada899c0-6b72-45ff-838a-53d27b00a13e" />
+
+
 
 

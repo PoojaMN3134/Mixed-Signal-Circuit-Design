@@ -39,6 +39,24 @@ It introduces a dominant pole and improves phase margin and stability.
 # Test Circuit
 <img width="1002" height="799" alt="Screenshot from 2025-11-05 12-49-26 1" src="https://github.com/user-attachments/assets/9e6e2162-da58-42c6-b420-f261e3505d77" />
 
+# Transient Analysis Waveform
+![trans 1](https://github.com/user-attachments/assets/edecfdee-868c-427f-b2fc-158c6a224552)
+
+# Bode Plot 
+![bode 1](https://github.com/user-attachments/assets/45a09456-f805-4e9b-9fbd-d80f2049a76e)
+
+![WhatsApp Image 2025-11-05 at 13 51 21_4870d106](https://github.com/user-attachments/assets/e3b1a069-0311-41c7-aa4a-1ece545fb7a0)
+
+# DC Analysis Waveform
+![dc 1](https://github.com/user-attachments/assets/a904839d-bd04-4054-90d6-bad15d82ac0f)
+
+# AC Analysis Waveform
+![ac 1](https://github.com/user-attachments/assets/52f3e515-e2d3-47a0-abcd-5fae5cc0efc3)
+
+
+
+
+
 
 
 

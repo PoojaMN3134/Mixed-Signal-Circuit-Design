@@ -45,7 +45,7 @@ It introduces a dominant pole and improves phase margin and stability.
 # Bode Plot 
 ![bode 1](https://github.com/user-attachments/assets/45a09456-f805-4e9b-9fbd-d80f2049a76e)
 
-![WhatsApp Image 2025-11-05 at 13 51 21_4870d106](https://github.com/user-attachments/assets/e3b1a069-0311-41c7-aa4a-1ece545fb7a0)
+![WhatsApp Image 2025-11-05 at 13 51 21_2895cfaf](https://github.com/user-attachments/assets/aef0003e-e371-47c6-9f31-2d73f8d0d924)
 
 # DC Analysis Waveform
 ![dc 1](https://github.com/user-attachments/assets/a904839d-bd04-4054-90d6-bad15d82ac0f)

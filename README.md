@@ -37,6 +37,7 @@ It introduces a dominant pole and improves phase margin and stability.
 <img width="675" height="462" alt="Screenshot 2025-11-05 131848" src="https://github.com/user-attachments/assets/e885b1e9-4701-46a5-b169-172c4dc20dec" />
 
 ![1](https://github.com/user-attachments/assets/70a5d008-940e-4bd9-88b0-96855e295bae)
+![WhatsApp Image 2025-11-05 at 13 40 13_5f62f2f5](https://github.com/user-attachments/assets/030478a9-b923-4fc6-b9ce-a10555852cca)
 
 # Schematic Circuit
 <img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-35 1" src="https://github.com/user-attachments/assets/b1f04710-1ff4-474f-9cfd-960421e1996a" />

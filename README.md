@@ -42,6 +42,7 @@ It introduces a dominant pole and improves phase margin and stability.
 
 # Transient Analysis Waveform
 <img width="1920" height="1080" alt="Screenshot from 2025-12-02 15-38-04" src="https://github.com/user-attachments/assets/5d33d78a-8196-4b5a-af24-4f70fa6954d8" />
+![20251202_233611 1](https://github.com/user-attachments/assets/5411729b-c13d-4a9c-bd01-d600b2ed32fb)
 
 # Bode Plot 
 <img width="1920" height="1080" alt="Screenshot from 2025-12-02 13-36-05" src="https://github.com/user-attachments/assets/31716eb9-979d-458e-a53d-e693bc3604cc" />

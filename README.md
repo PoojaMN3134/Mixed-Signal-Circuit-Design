@@ -41,18 +41,21 @@ It introduces a dominant pole and improves phase margin and stability.
 <img width="1002" height="799" alt="Screenshot from 2025-11-05 12-49-26 1" src="https://github.com/user-attachments/assets/9e6e2162-da58-42c6-b420-f261e3505d77" />
 
 # Transient Analysis Waveform
-![trans 1](https://github.com/user-attachments/assets/edecfdee-868c-427f-b2fc-158c6a224552)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 15-38-04" src="https://github.com/user-attachments/assets/5d33d78a-8196-4b5a-af24-4f70fa6954d8" />
 
 # Bode Plot 
-![bode 1](https://github.com/user-attachments/assets/45a09456-f805-4e9b-9fbd-d80f2049a76e)
-
-![WhatsApp Image 2025-11-05 at 13 51 21_2895cfaf](https://github.com/user-attachments/assets/aef0003e-e371-47c6-9f31-2d73f8d0d924)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 13-36-05" src="https://github.com/user-attachments/assets/31716eb9-979d-458e-a53d-e693bc3604cc" />
 
 # DC Analysis Waveform
-![dc 1](https://github.com/user-attachments/assets/a904839d-bd04-4054-90d6-bad15d82ac0f)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-12-39" src="https://github.com/user-attachments/assets/2388d00f-2c75-4409-98d4-beb8c46ed039" />
 
 # AC Analysis Waveform
-![ac 1](https://github.com/user-attachments/assets/52f3e515-e2d3-47a0-abcd-5fae5cc0efc3)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-12-13" src="https://github.com/user-attachments/assets/d5b8ecad-4fb2-4117-afc1-b174e15cb130" />
+
+# References:
+
+
+
 
 
 

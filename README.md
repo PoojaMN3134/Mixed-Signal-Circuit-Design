@@ -54,13 +54,6 @@ It introduces a dominant pole and improves phase margin and stability.
 # AC Analysis Waveform
 ![ac 1](https://github.com/user-attachments/assets/52f3e515-e2d3-47a0-abcd-5fae5cc0efc3)
 
-# Plan of Execution (Remaining Work)
-
-From the simulation, the phase margin obtained is 61 dB, which meets the stability requirement.
-However, the DC gain is only 31 dB, which is lower than the expected value.
-Therefore, the next step is to improve the voltage gain by increasing the W/L ratio and channel length of the gain-dominating transistors (M1, M2, and M6), and re-simulating to obtain required gain.
-
-
 
 
 

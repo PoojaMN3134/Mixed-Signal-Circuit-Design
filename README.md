@@ -55,6 +55,7 @@ It introduces a dominant pole and improves phase margin and stability.
 
 # References:
 [1] R. Saidulu, B. P. Chandar, and K. Ravi Kumar, “Design and Simulation of a High Gain Two-Stage Op-Amp Realised in 90 nm CMOS Process,” Journal of Emerging Technologies and Innovative Research (JETIR), vol. 10, no. 5, pp. d47–d54, May 2023.
+
 some papers and books https://drive.google.com/drive/folders/1DwQK6ToqPoA2O_kQzzZrTLDcux04AhlF
 
 
